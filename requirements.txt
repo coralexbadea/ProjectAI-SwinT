@@ -1,0 +1,19 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1+cpu 
+torchvision==0.8.2+cpu 
+Gunicorn
+Babel
+Flask-Babel
+lxml
+flask_cors
+pytz
+six
+Werkzeug
+flask
+catalogue
+numpy
+gc-python-utils
+psycopg2
+termcolor==1.1.0 
+yacs==0.1.8 
+PyYAML
